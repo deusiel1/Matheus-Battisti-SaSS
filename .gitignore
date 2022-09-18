@@ -1,0 +1,9 @@
+vite.config.js
+*.json
+*.lock
+*.replit
+*.config
+*.nix
+*.map
+.config/
+node_modules/
